@@ -1,1 +1,1 @@
-Hard things just got started
+This is the 6th task on the shell basics
